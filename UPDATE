@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.5",
-  "ReleaseNotes": "CORREÇÃO NA OPÇÃO CLARO AKROSS",
+  "Version": "1.0.6",
+  "ReleaseNotes": "CORREÇÃO NA OPÇÃO VIVO TLSWS",
   "UrlUpdate": "https://raw.githubusercontent.com/Claudia3333iy/NETOLLYUPDATE/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/Claudia3333iy/NETOLLYUPDATE/main/SMS",
   "EmailFeedback": "NETOLLY@gmail.com",
@@ -51,7 +51,7 @@
       "FLAG": "vivo",
       "Payload": "GET wss://gedoc.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "gedoc.vivo.com.br",
-      "TlsIP": "gedoc.vivo.com.br",
+      "TlsIP": "104.18.7.80",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
