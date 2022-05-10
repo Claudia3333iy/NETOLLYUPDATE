@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.0",
+  "Version": "1.1.1",
   "ReleaseNotes": "CORAÇÃO NAS OPÇÕES TODAS AS OPERADORAS E NA VIVO",
   "UrlUpdate": "https://raw.githubusercontent.com/Claudia3333iy/NETOLLYUPDATE/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/Claudia3333iy/NETOLLYUPDATE/main/SMS",
@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR (BR01)",
+      "Name": "SERVIDOR BR01",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "luffyelbrabo.xyz",
