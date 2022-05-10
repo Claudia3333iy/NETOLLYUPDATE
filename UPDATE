@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.8",
-  "ReleaseNotes": "CORREÇÃO EM TOAS AS OPERADORAS",
+  "Version": "1.0.9",
+  "ReleaseNotes": "CORAÇÃO NAS OPÇÕES TODAS AS OPERADORAS E NA VIVO",
   "UrlUpdate": "https://raw.githubusercontent.com/Claudia3333iy/NETOLLYUPDATE/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/Claudia3333iy/NETOLLYUPDATE/main/SMS",
   "EmailFeedback": "NETOLLY@gmail.com",
@@ -24,19 +24,6 @@
       "USER": "",
       "PASS": ""
     }        
-  ],
-  "Servers": [
-    {
-      "Name": "SERVIDOR BRASIL",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "pa.speedgame.xyz",
-      "CheckUser": "http://193.123.127.136:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    }
   ],
   "Networks": [
     {
