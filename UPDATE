@@ -1,6 +1,6 @@
 {
-  "Version": "1.1.1",
-  "ReleaseNotes": "CORAÇÃO NAS OPÇÕES TODAS AS OPERADORAS E NA VIVO",
+  "Version": "1.1.2",
+  "ReleaseNotes": "CORAÇÃO NA OPÇÃO CLARO ATENDIMENTO",
   "UrlUpdate": "https://raw.githubusercontent.com/Claudia3333iy/NETOLLYUPDATE/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/Claudia3333iy/NETOLLYUPDATE/main/SMS",
   "EmailFeedback": "NETOLLY@gmail.com",
@@ -77,13 +77,13 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO DESCOMPLICA",
+      "Name": "CLARO ATENDIMENTO",
       "FLAG": "claro",
-      "Payload": "GET wss://no.descomplica.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: seuhost[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "no.descomplica.com.br",
-      "TlsIP": "no.descomplica.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
+      "TlsIP": "atendimento.descomplica.com.br",
+      "ProxyIP": "no.descomplica.com.br",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
