@@ -1,6 +1,6 @@
 {
-  "Version": "2.0.0",
-  "ReleaseNotes": "CORAÇÃO NA OPÇÃO CLARO ATENDIMENTO ",
+  "Version": "2.0.1",
+  "ReleaseNotes": "CORREÇÃO NAS CONFIGURAÇÕES",
   "UrlUpdate": "https://raw.githubusercontent.com/Claudia3333iy/NETOLLYUPDATE/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/Claudia3333iy/NETOLLYUPDATE/main/SMS",
   "EmailFeedback": "NETOLLY@gmail.com",
@@ -17,7 +17,7 @@
       "Name": "SERVIDOR BR01",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "luffyelbrabo.xyz",
+      "ServerIP": "superzap.ml",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
