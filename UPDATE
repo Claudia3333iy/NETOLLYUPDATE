@@ -1,5 +1,5 @@
 {
-  "Version": "2.1.1",
+  "Version": "2.2.1",
   "ReleaseNotes": "CORREÇÃO NAS CONFIGURAÇÕES",
   "UrlUpdate": "https://raw.githubusercontent.com/Claudia3333iy/NETOLLYUPDATE/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/Claudia3333iy/NETOLLYUPDATE/main/SMS",
@@ -17,7 +17,7 @@
       "Name": "SERVIDOR BR01",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "superzap.ml",
+      "ServerIP": "luffyelbrabo.xyz",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
